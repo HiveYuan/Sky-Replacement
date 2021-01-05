@@ -3,3 +3,8 @@
 *.pdf filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
+*.docx filter=lfs diff=lfs merge=lfs -text
+*.doc filter=lfs diff=lfs merge=lfs -text
+events.out.tfevents.1590647842.DESKTOP-0T8AKA8.22296.0 filter=lfs diff=lfs merge=lfs -text
+events.out.tfevents.1590765745.DESKTOP-0T8AKA8.11368.0 filter=lfs diff=lfs merge=lfs -text
+checkpoint_119_epoch.pkl filter=lfs diff=lfs merge=lfs -text
